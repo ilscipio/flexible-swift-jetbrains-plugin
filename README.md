@@ -1,4 +1,4 @@
-![Plugin Logo]([https://plugins.jetbrains.com/files/31023/screenshot_[SCREENSHOT_ID]](https://plugins.jetbrains.com/files/31023/1003739/icon/default.svg))
+![Plugin Logo](https://plugins.jetbrains.com/files/31023/1003739/icon/default.svg)
 
 # Flexible Swift
 
