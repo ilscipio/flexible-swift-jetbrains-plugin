@@ -1,4 +1,5 @@
-![Plugin Logo](https://plugins.jetbrains.com/files/31023/1003739/icon/default.svg)
+<img src="https://plugins.jetbrains.com/files/31023/1003739/icon/default.svg" width="200" alt="Flexible Swing logo"/>
+
 
 # Flexible Swift
 
