@@ -1,3 +1,5 @@
+![Rating](https://img.shields.io/jetbrains/plugin/r/stars/31023) ![Downloads](https://img.shields.io/jetbrains/plugin/d/31023) ![Version](https://img.shields.io/jetbrains/plugin/v/31023)
+
 <img src="https://plugins.jetbrains.com/files/31023/1003739/icon/default.svg" width="200" alt="Flexible Swing logo"/>
 
 
